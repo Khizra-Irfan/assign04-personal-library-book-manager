@@ -1,0 +1,9 @@
+[
+    {
+        "title": "millionare in one second",
+        "author": "khizra",
+        "year": "2023",
+        "genre": "mystery",
+        "read": true
+    }
+]
